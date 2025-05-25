@@ -11,7 +11,12 @@ I enjoy transforming raw data into actionable insights through data cleaning, an
 Currently, I am improving my expertise in Python 🐍, Tableau 📊, and machine learning 🤖 to solve real-world problems.
 
 ---
+## Education 🎓
 
+- **Faculty of Computers and Artificial Intelligence, Helwan University**  
+  Department of Information Systems  
+
+---
 ## Skills 💡
 
 - **Databases & SQL:** MySQL 🐬, Oracle 🛡️, Advanced SQL, PL/SQL, SSRS 📑, SSIS 🔄, SSAS 📈  
@@ -22,12 +27,7 @@ Currently, I am improving my expertise in Python 🐍, Tableau 📊, and machine
 
 ---
 
-## Education 🎓
 
-- **Faculty of Computers and Artificial Intelligence, Helwan University**  
-  Department of Information Systems  
-
----
 
 ## Contact Me 📫
 
@@ -73,8 +73,10 @@ Currently, I am improving my expertise in Python 🐍, Tableau 📊, and machine
 
 ---
 
-## 📊 GitHub Language Stats
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EsraaSamir12&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=esraasamir12&show_icons=true&theme=tokyonight" alt="Esraa's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esraasamir12&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
