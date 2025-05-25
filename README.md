@@ -58,4 +58,4 @@
 ### 🌐 Let's Connect
 
 - 📧 Email: **esraasamir118881@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/esraa-samir](https://www.linkedin.com/in/esraa-samir)
+- 💼 LinkedIn: [linkedin.com/in/esraa-samir-7b83152b0](https://www.linkedin.com/in/esraa-samir-7b83152b0/)
