@@ -36,17 +36,40 @@ Currently, I am improving my expertise in Python 🐍, Tableau 📊, and machine
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" width="40" height="40" alt="Tableau" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" width="40" height="40" alt="Hadoop" />
-  <img src="https://cdn.worldvectorlogo.com/logos/sql-server-reporting-services.svg" width="40" height="40" alt="SSRS" />
-  <img src="https://cdn.worldvectorlogo.com/logos/sql-server-integration-services.svg" width="40" height="40" alt="SSIS" />
-  <img src="https://cdn.worldvectorlogo.com/logos/sql-server-analysis-services.svg" width="40" height="40" alt="SSAS" />
+### 🛠️ Skills & Tools
+
+<p align="left">
+  <!-- Python & Libraries -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+
+  <!-- Visualization & BI -->
+  <img src="https://img.icons8.com/color/48/excel.png" alt="Excel" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="40" height="40"/>
+
+  <!-- SSRS / SSIS / SSAS -->
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-reporting-data-analytics-flat-flat-juicy-fish.png" alt="SSRS" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/integration.png" alt="SSIS" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/combo-chart.png" alt="SSAS" width="40" height="40"/>
+
+  <!-- Docker -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+
+  <!-- Others -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 </p>
+
+---
 
 ---
 
