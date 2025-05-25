@@ -19,11 +19,11 @@ Currently, I am improving my expertise in Python 🐍, Tableau 📊, and machine
 ---
 ## Skills 💡
 
-- **Databases & SQL:** MySQL 🐬, Oracle 🛡️, Advanced SQL, PL/SQL, SSRS 📑, SSIS 🔄, SSAS 📈  , MongoDB
-- **Data Visualization:** Tableau 📊, Power BI 📈, Excel 📋  
-- **Programming Languages:** Python 🐍, C++ ⚙️, Java ☕, PHP 🐘, C# 🎯, HTML 🌐, CSS 🎨  
-- **Data Science & Big Data:** Data preprocessing 🧹, Statistical analysis 📊, Machine Learning basics 🤖, MapReduce ⚡  
-- **Tools:** Git 🐙, Docker 🐳, Data Warehousing 🏢, BI Development 🛠️  
+- **Databases & SQL:** MySQL , Oracle , Advanced SQL, PL/SQL, SSRS , SSIS , SSAS 📈  , MongoDB
+- **Data Visualization:** Tableau , Power BI , Excel   
+- **Programming Languages:** Python , C++ , Java , PHP , C# , HTML , CSS 
+- **Data Science & Big Data:** Data preprocessing , Statistical analysis , Machine Learning basics , MapReduce
+- **Tools:** Git , Docker , Data Warehousing , BI Development  
 
 ---
 
