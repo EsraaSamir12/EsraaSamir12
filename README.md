@@ -6,9 +6,7 @@
 
 ## About Me
 
-I am a passionate Data Analysis student with solid skills in SQL, data visualization, and programming.  
-I enjoy transforming raw data into actionable insights through data cleaning, analysis, and building interactive dashboards.  
-Currently, I am improving my expertise in Python 🐍, Tableau 📊, and machine learning 🤖 to solve real-world problems.
+Aspiring Data Analyst with a strong foundation in SQL, Python, and data visualization tools like Power BI and Tableau. Skilled in data cleaning, processing, and analysis, with hands-on experience in Excel, ETL concepts, and Data Warehousing (DWH). Passionate about turning raw data into valuable insights that support business decisions and eager to apply analytical skills in real-world projects, with additional knowledge in Machine Learning, PL/SQL, MongoDB, and Web Scraping.
 
 ---
 ## Education 🎓
